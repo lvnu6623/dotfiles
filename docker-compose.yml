@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ubuntu:
+    build: .
+    platform: linux/amd64
+    container_name: ubuntu
+    environment:
+      TZ: Asis/Tokyo
+    tty: true
+    command: bash

@@ -1,0 +1,9 @@
+[user]
+	name = lvnu6623
+	email = lvnu6623@users.noreply.github.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = master
+[pull]
+	rebase = merges
