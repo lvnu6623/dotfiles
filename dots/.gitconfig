@@ -7,3 +7,7 @@
 	defaultBranch = master
 [pull]
 	rebase = merges
+[url "github.com:"]
+	InsteadOf = https://github.com/
+	InsteadOf = git@github.com:
+
